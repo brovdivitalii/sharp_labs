@@ -1,0 +1,8 @@
+D:\UZHNU active\Prorgamming labs\lab1_zavod\bin\Debug\lab1_zavod.exe.config
+D:\UZHNU active\Prorgamming labs\lab1_zavod\bin\Debug\lab1_zavod.exe
+D:\UZHNU active\Prorgamming labs\lab1_zavod\bin\Debug\lab1_zavod.pdb
+D:\UZHNU active\Prorgamming labs\lab1_zavod\obj\Debug\lab1_zavod.csproj.AssemblyReference.cache
+D:\UZHNU active\Prorgamming labs\lab1_zavod\obj\Debug\lab1_zavod.csproj.SuggestedBindingRedirects.cache
+D:\UZHNU active\Prorgamming labs\lab1_zavod\obj\Debug\lab1_zavod.csproj.CoreCompileInputs.cache
+D:\UZHNU active\Prorgamming labs\lab1_zavod\obj\Debug\lab1_zavod.exe
+D:\UZHNU active\Prorgamming labs\lab1_zavod\obj\Debug\lab1_zavod.pdb
